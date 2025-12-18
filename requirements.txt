@@ -1,1 +1,4 @@
-tensorflow opencv-python numpy playsound
+tensorflow 
+opencv-python 
+numpy 
+playsound
